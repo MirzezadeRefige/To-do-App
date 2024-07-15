@@ -1,0 +1,50 @@
+@media only screen and (max-width: 767px) {
+  .list {
+    margin: 0 !important;
+  }
+  .to-do-app {
+    margin: 1% 2% 0 2%;
+    /* margin-left: 0px !important; */
+  }
+  body {
+    width: 100% !important;
+    margin: 6px 0 0 0;
+  }
+  .list p {
+    justify-content: center;
+  }
+  .icon-div {
+    display: none !important;
+  }
+  #icondiv1 {
+    display: none;
+  }
+
+  .icon-div2 {
+    display: none;
+  }
+  .elm-div {
+    width: 330px !important;
+    margin-top: 5% !important;
+    margin-bottom: 2%;
+    padding-top: 10% !important;
+    padding-bottom: 40% !important;
+  }
+  .buttons {
+    /* display: block; */
+  }
+  .p {
+    display: inline;
+    width: 200px !important;
+  }
+  .edit-btn {
+    margin-left: 270px;
+  }
+  .elm-div:hover {
+    background-color: rgb(69, 34, 79);
+    border: 2px solid blanchedalmond;
+  }
+  .to-do {
+    margin-bottom: 5%;
+  }
+}
