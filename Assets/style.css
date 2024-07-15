@@ -1,7 +1,7 @@
 .to-do-app {
   background-color: rgb(50, 50, 61);
   text-align: center;
-  width: 530px;
+  width: 630px;
   margin-left: 3%;
   height: 100%;
   padding-bottom: 50px;
@@ -144,15 +144,14 @@ checkbox:checked {
 }
 .elm-div {
   display: flex;
-margin-top: 7px;
+  margin-top: 7px;
   width: 530px !important;
   height: 60px;
   align-items: center;
   flex-wrap: wrap;
 }
-.elm-div:hover{
+.elm-div:hover {
   background-color: rgb(69, 34, 79);
-
 }
 .buttons {
   display: inline;
